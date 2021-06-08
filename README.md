@@ -11,7 +11,7 @@ To create this website the following technologies were used:
 - Github,
 - Git,
 
-For deployment i registered the cloud provider as a `git remote` called `deploy` and i configured it to run build when a new version is pushed to it. Nginx was configured to just serve the **build** directory of the project.
+For deployment i registered the cloud server (a **Debian 10** machine) as a `git remote` called `deploy` and i configured it to run build when a new version is pushed to it (you can learn this [here](https://github.com/felipejoribeiro/this-person-docs/blob/main/programming/tools/git/01_GIT_push_for_a_machine.md)). Nginx was configured to just serve the **build** directory of the project.
 
 ## Contributing
 If you which to contribute fell free to send a pull request. New information, revisions or corrections are welcome and it will be a pleasure having you in the contributors page.
