@@ -7,4 +7,4 @@ Thank you for passing by.
 If you which to contribute fell free to send a pull request. New information, revisions or corrections are welcome and it will be a pleasure having you in the contributors page.
 
 ## Licenses
-[MIT](https://github.com/felipejoribeiro/felipejoribeiro-page/blob/main/LICENSE)
+[MIT](https://github.com/felipejoribeiro/felipejoribeiro-page/blob/master/LICENSE)
