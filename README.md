@@ -8,6 +8,8 @@ To create this website the following technologies were used:
 
 - React,
 - Nginx,
+- Node,
+- Sass,
 - Github,
 - Git,
 
