@@ -12,6 +12,7 @@ To create this website the following technologies were used:
 - Sass,
 - Github,
 - Git,
+- AWS,
 
 For deployment i registered the cloud server (a **Debian 10** machine) as a `git remote` called `deploy` and i configured it to run build when a new version is pushed to it (you can learn this [here](https://github.com/felipejoribeiro/this-person-docs/blob/main/programming/tools/git/01_GIT_push_for_a_machine.md)). Nginx was configured to just serve the **build** directory of the project.
 
